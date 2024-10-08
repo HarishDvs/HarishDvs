@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m really into AI/ML, especially when it comes to exploring things like neural networks, image processing, and finding real-world ways to apply AI.<br><br>Along the way, I’ve worked on some cool stuff like convolutional models and integrating AI into mobile apps. But what I enjoy most is staying curious, learning new things, and seeing how AI is evolving.<br><br>Always excited to explore fresh ideas and tools that push the boundaries of what’s possible with machine learning.
+👋 Hey there! I’m really into AI/ML, especially when it comes to exploring things like neural networks, image processing, and finding real-world ways to apply AI.<br><br>Along the way, I’ve worked on some cool stuff like convolutional models and integrating AI into website applications and buiilding websites as well. But what I enjoy most is staying curious, learning new things, and seeing how AI & ML and other technologies are evolving.<br><br>Always excited to explore fresh ideas and tools that push the boundaries of what’s possible with AI & machine learning.
 
 
 ## 🌐 Socials:
