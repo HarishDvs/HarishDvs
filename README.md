@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m a programmer with problem solving skills, with experience in AI/ML & Data analysis and Fullstack development. 
+👋 Hey there! I’m a programmer with problem solving skills, with interest in AI/ML & Data analysis 
 
 
 ## 🌐 Socials:
