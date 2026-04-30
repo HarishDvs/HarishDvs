@@ -1,7 +1,7 @@
-### Hi, I'm Harish 👋
+### Hi, I'm Harish 
 
-I build AI-driven systems — multi-agent pipelines, ML models, and full-stack applications.  
-Currently focused on LLM orchestration with LangGraph and Groq, computer vision, and deploying real projects on AWS.
+I'm building AI-driven systems, multi-agent pipelines, ML models, and full-stack applications.  
+
 
 ---
 
