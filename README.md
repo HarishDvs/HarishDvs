@@ -4,8 +4,7 @@ I build AI-driven systems — multi-agent pipelines, ML models, and full-stack a
 
 ---
 
-**Currently working on:**  
-Logistics Intelligence Platform — a 3-agent AI system for inventory analysis, demand forecasting, and automated purchase order generation, deployed on AWS Elastic Beanstalk.
+
 
 ---
 
