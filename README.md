@@ -19,20 +19,6 @@ Currently focused on LLM orchestration with LangGraph and Groq, computer vision,
 **Tools & Cloud**  
 `AWS (EC2, Elastic Beanstalk)` `Git` `Docker` `MySQL` `MongoDB`
 
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Logistics Intelligence Platform](https://github.com/HarishDvs/logistics-agentic-project) | 3-agent AI pipeline: inventory alerts → demand forecasting → auto purchase orders | FastAPI · LangGraph · Groq · AWS |
-| [Plankton Grid Analysis](https://github.com/HarishDvs/plankton-grid-analysis) | Ensemble ResNet models on grid-split microscopy images/videos for entity detection (SIH 2024) | React · Flask · PyTorch · CV |
-| [CrowdStacks](https://github.com/HarishDvs/crowd-stacks-v2) | Crowdfunding dApp on Stacks blockchain — escrow, refunds, on-chain campaigns | Next.js · Clarity · Stacks |
-| [Found404](https://github.com/HarishDvs/Found404) | Movie & TV recommendation engine with ML and SerpAPI | Flask · scikit-learn · Python |
-| [Gesture Presentation Control](https://github.com/HarishDvs/gesture-enabled-presentation) | Control PowerPoint presentations with hand gestures | Python · OpenCV · MediaPipe |
-| [Realtime Chat App](https://github.com/HarishDvs/realtime-chat-app) | WebSocket-based chat with rooms and live presence | Node.js · Socket.io · JavaScript |
-
----
 
 ### GitHub Stats
 
