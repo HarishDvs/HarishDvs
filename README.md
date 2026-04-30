@@ -1,10 +1,7 @@
 ### Hi, I'm Harish 👋
 
-I build AI-driven systems — multi-agent pipelines, ML models, and full-stack applications. Currently focused on LLM orchestration with LangGraph and Groq, computer vision, and deploying real projects on AWS.
-
----
-
-
+I build AI-driven systems — multi-agent pipelines, ML models, and full-stack applications.  
+Currently focused on LLM orchestration with LangGraph and Groq, computer vision, and deploying real projects on AWS.
 
 ---
 
@@ -29,7 +26,7 @@ I build AI-driven systems — multi-agent pipelines, ML models, and full-stack a
 | Project | Description | Stack |
 |---|---|---|
 | [Logistics Intelligence Platform](https://github.com/HarishDvs/logistics-agentic-project) | 3-agent AI pipeline: inventory alerts → demand forecasting → auto purchase orders | FastAPI · LangGraph · Groq · AWS |
-| [Plankton Analysis System](https://github.com/HarishDvs/ai-driven-plankton-microscopy-analysis-sih) | Grid-based image/video analysis with ensemble ResNet models (SIH 2024) | React · Flask · Python · CV |
+| [Plankton Grid Analysis](https://github.com/HarishDvs/plankton-grid-analysis) | Ensemble ResNet models on grid-split microscopy images/videos for entity detection (SIH 2024) | React · Flask · PyTorch · CV |
 | [CrowdStacks](https://github.com/HarishDvs/crowd-stacks-v2) | Crowdfunding dApp on Stacks blockchain — escrow, refunds, on-chain campaigns | Next.js · Clarity · Stacks |
 | [Found404](https://github.com/HarishDvs/Found404) | Movie & TV recommendation engine with ML and SerpAPI | Flask · scikit-learn · Python |
 | [Gesture Presentation Control](https://github.com/HarishDvs/gesture-enabled-presentation) | Control PowerPoint presentations with hand gestures | Python · OpenCV · MediaPipe |
