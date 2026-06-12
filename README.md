@@ -12,6 +12,7 @@ I build AI agents that do actual jobs, not demos. My pipelines forecast warehous
 |---------|-----------|
 | [**chainly**](https://github.com/HarishDvs/chainly) | Three agents run a warehouse: one watches inventory, one forecasts 30 days of demand, one writes the purchase orders. LangGraph, Groq, FastAPI, deployed on AWS. |
 | [**orchestrix**](https://github.com/HarishDvs/orchestrix) | An 11-node LangGraph pipeline that ingests CRM data, hunts anomalies, forecasts KPIs, then triggers n8n automations so humans only see the interesting parts. |
+| [**Grizzly**](https://github.com/HarishDvs/Grizzly) | An open editor-in-a-skill for fiction writers. It diagnoses your draft, tracks structure, and remembers your story across sessions. The author keeps the pen. |
 | [**realtime-chat-app**](https://github.com/HarishDvs/realtime-chat-app) | WebSocket rooms with live presence. My most starred repo, which proves people just want to talk. |
 | [**diatoma**](https://github.com/HarishDvs/diatoma) | Ensemble ResNet models scanning images and video for plankton. Built for Smart India Hackathon 2024. |
 | [**ledger**](https://github.com/HarishDvs/ledger) | Tamper-proof CCTV evidence. Every video gets a SHA-256 hash logged on Ethereum/Polygon, so nobody can quietly edit the footage. |
