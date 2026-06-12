@@ -1,38 +1,46 @@
-### Hi, I'm Harish 
+# Hey, I'm Harish 👋
 
-I'm building AI-driven systems, multi-agent pipelines, ML models, and full-stack applications.  
+I build AI agents that do actual jobs, not demos. My pipelines forecast warehouse demand, raise purchase orders, flag anomalies in CRM data, and at one point detected plankton. Hackathons take you to strange places.
 
+**Right now:** shipping [CrowdStacks](https://github.com/HarishDvs/crowd-stacks-v2), a crowdfunding dApp on the Stacks blockchain. On-chain escrow written in Clarity, goal-based withdrawals, self-serve refunds when a campaign misses its goal. Built as a two-person sprint with real PRs and real code review.
 
----
+<br>
 
-### 🚀 Featured Projects
+## Stuff worth clicking
 
-- **[chainly](https://github.com/HarishDvs/chainly)** — 3-agent AI pipeline for warehouse management: inventory alerts, 30-day demand forecasting, automated purchase orders. `LangGraph` · `Groq` · `FastAPI` · `AWS`
-- **[orchestrix](https://github.com/HarishDvs/orchestrix)** — 11-node LangGraph multi-agent pipeline for business intelligence: CRM ingestion, anomaly detection, KPI forecasting, n8n automation. `LangGraph` · `Python`
-- **[diatoma](https://github.com/HarishDvs/diatoma)** — Ensemble ResNet image/video analysis for plankton detection. Built for Smart India Hackathon 2024. `ResNet` · `TypeScript`
-- **[ledger](https://github.com/HarishDvs/ledger)** — Tamper-proof CCTV evidence platform logging SHA-256 video hashes on Ethereum/Polygon. `JavaScript` · `Blockchain`
+| Project | The pitch |
+|---------|-----------|
+| [**chainly**](https://github.com/HarishDvs/chainly) | Three agents run a warehouse: one watches inventory, one forecasts 30 days of demand, one writes the purchase orders. LangGraph, Groq, FastAPI, deployed on AWS. |
+| [**orchestrix**](https://github.com/HarishDvs/orchestrix) | An 11-node LangGraph pipeline that ingests CRM data, hunts anomalies, forecasts KPIs, then triggers n8n automations so humans only see the interesting parts. |
+| [**realtime-chat-app**](https://github.com/HarishDvs/realtime-chat-app) | WebSocket rooms with live presence. My most starred repo, which proves people just want to talk. |
+| [**diatoma**](https://github.com/HarishDvs/diatoma) | Ensemble ResNet models scanning images and video for plankton. Built for Smart India Hackathon 2024. |
+| [**ledger**](https://github.com/HarishDvs/ledger) | Tamper-proof CCTV evidence. Every video gets a SHA-256 hash logged on Ethereum/Polygon, so nobody can quietly edit the footage. |
+| [**gesture-enabled-presentation**](https://github.com/HarishDvs/gesture-enabled-presentation) | Drive PowerPoint with your hands via OpenCV and MediaPipe. Clickers are for cowards. |
 
----
+<br>
 
-### Tech
+## Tools I reach for
 
-**AI / ML**  
-`Python` `LangGraph` `Groq` `scikit-learn` `TensorFlow` `Keras` `OpenCV` `Pandas` `NumPy`
+Daily drivers: **Python**, **TypeScript**, **FastAPI**, **LangGraph**, **React/Next.js**.
 
-**Backend**  
-`FastAPI` `Flask` `Node.js` `REST APIs`
+Also in the toolbox: TensorFlow, scikit-learn, OpenCV, Node.js, Docker, MySQL, MongoDB, AWS (EC2, Elastic Beanstalk). And yes, Clarity smart contracts, which I did not expect either.
 
-**Frontend**  
-`React` `Next.js` `TypeScript` `JavaScript` `HTML/CSS`
+<br>
 
-**Tools & Cloud**  
-`AWS (EC2, Elastic Beanstalk)` `Git` `Docker` `MySQL` `MongoDB`
+## The numbers
 
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarishDvs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishDvs&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook,powershell" alt="Top languages" />
+</p>
 
-### GitHub Stats
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com/?user=HarishDvs&theme=dark&hide_border=true" alt="Contribution streak" />
+</p>
 
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarishDvs&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<br>
 
----
+## Say hi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/harishd271)
+[![Email](https://img.shields.io/badge/Email-harishdvs%40outlook.com-5d5d5d?style=flat&logo=microsoftoutlook)](mailto:harishdvs@outlook.com)
